@@ -14,7 +14,7 @@ Marcel Neunhoeffer, LMU Munich (TA)
 ## Code 
 * Code Nr.1: MNIST
 * Code Nr.2: MNIST revisited
-* Code Nr.3: Boston Houseprices
+* Code Nr.3: Boston houseprices
 
 ## Docs 
 * Slides 
