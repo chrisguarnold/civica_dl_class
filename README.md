@@ -20,3 +20,12 @@ Marcel Neunhoeffer, LMU Munich (TA)
 * Slides 
 * Maths
 
+## Sources 
+
+### Books
+* Chollet, François and J.J. Allaire. 2018. Deep Learning with R. Manning Publications. 
+* Goodfellow, Ian and Yoshua Bengio and Aaron Courville. 2016. Deep Learning. MIT Press.
+
+### Internet Resources
+* Ng, Andrew. Deep Learning Specialization. coursera.org.
+* Deep Learning Papers Reading Roadmap. github.com. Introduction to Machine Learning
