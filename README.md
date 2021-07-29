@@ -30,3 +30,6 @@ Marcel Neunhoeffer, LMU Munich (TA)
 * Ng, Andrew. Deep Learning Specialization. coursera.org.
 * Deep Learning Papers Reading Roadmap. https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 * Introduction to Machine Learning. https://introduction-to-machine-learning.netlify.app/
+
+## Licence
+CC-BY-NCSA (Creative Commons with Attribution + Noncommercial + ShareAlike)
